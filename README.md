@@ -9,6 +9,7 @@ I have used 4 different tables and from basic to advanced queries to retrieve th
 1. pizzas table(containing 4 columns)-->pizza_id, pizza_type_id, size and price.
 2. pizza_types table(containing 4 columns)--> pizza_type_id,name,category and ingredients.
 3. orders table(containing 3 columns)-->order_id,order_date and order_time.
+   
 4.order_details table(containing 4 columns)-->order_details_id,order_id,pizza_id and quantity.
 
 I have used COUNT(),SUM(),RANK(),OVER(),GROUP BY(),ORDER BY(),LIMIT and others clauses in these 20 questions. 
